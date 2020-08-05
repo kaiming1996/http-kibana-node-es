@@ -5,7 +5,7 @@ Connects External Kibana with Amazon ES. It uses the aws-sdk to make signed requ
 ## Installation
 
 Add this folder into [elasticsearch-js/src/lib](https://github.com/elastic/elasticsearch-js/src/lib)
-Change the client.js file in [elasticsearch-js/src/lib](https://github.com/elastic/elasticsearch-js/src/lib) to http-kibana-node-es/client.js(https://github.com/kaiming1996/http-kibana-node-es/blob/master/client.js)
+Change the client.js file in [elasticsearch-js/src/lib](https://github.com/elastic/elasticsearch-js/src/lib) to [http-kibana-node-es/client.js](https://github.com/kaiming1996/http-kibana-node-es/blob/master/client.js)
 
 ## Usage
 
